@@ -1,4 +1,5 @@
 Super Store Sales Dashboard (Power BI)
+
 📌 1. Title & Brief Introduction
 
 This project showcases an interactive Super Store Sales Dashboard built using Power BI to analyze business performance across regions, categories, and time.
@@ -96,3 +97,6 @@ Example Insight:
 
 If a sub-category like Binders has high sales but lower profit, pricing or cost strategies may need adjustment.
 If one region dominates sales, expansion strategies can focus on weaker regions.
+
+7. Screenshot / Demos
+   Show what the dashboard looks like - (https://github.com/shubhankarnautiyal/Sales-Store-Dashboard/blob/main/Dashboard%20snapshot.png)
