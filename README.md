@@ -99,4 +99,4 @@ If a sub-category like Binders has high sales but lower profit, pricing or cost 
 If one region dominates sales, expansion strategies can focus on weaker regions.
 
 7. Screenshot / Demos
-   Show what the dashboard looks like - (https://github.com/shubhankarnautiyal/Sales-Store-Dashboard/blob/main/Dashboard%20snapshot.png)
+   Show what the dashboard looks like - ![Dashboard Screenshot](https://raw.githubusercontent.com/shubhankarnautiyal/Sales-Store-Dashboard/main/Dashboard%20snapshot.png)
